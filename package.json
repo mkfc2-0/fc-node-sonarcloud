@@ -5,7 +5,7 @@
   "scripts": {
     "test": "jest --coverage"
   },
-  "author": "",
+  "author": "Marcelo M Kamei",
   "license": "ISC",
   "dependencies": {
     "@types/jest": "^26.0.21",
